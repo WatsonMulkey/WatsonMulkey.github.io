@@ -18,25 +18,25 @@ description: "A free Jekyll theme"
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com"
-url: "http://nandomoreira.me/lora"
-repository: "https://github.com/nandomoreirame/lora"
-disqus_shortname: "fernandomoreira"
+url: "http://watsonmulkey.github.io"
+repository: "https://github.com/WatsonMulkey/WatsonMulkey.github.io"
+disqus_shortname: "-"
 google_analytics: UA-52446115-1
 
 # social footer
 social:
   github:
     slug: github
-    link: http://github.com/nandomoreirame
+    link: https://github.com/WatsonMulkey
   facebook:
     slug: facebook
     link: http://facebook.com/fernando.dev
   twitter:
     slug: twitter
-    link: http://twitter.com/nandomoreirame
+    link: http://twitter.com/monomythism
   instagram:
     slug: instagram
-    link: http://instagram.com/nandomoreira.me
+    link: http://instagram.com/monomythism
   linkedin:
     slug: linkedin
-    link: http://linkedin.com/in/nandomoreirame
+    link: https://www.linkedin.com/in/watsonmulkey/
