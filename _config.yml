@@ -14,6 +14,12 @@ links:
   - name:         About me
     url:          /about
     external:     false
+  - name:         Ask A question
+    url:          /ask
+    external:     false
+  - name:         Give A  question
+    url:          /give
+    external:     false
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
