@@ -1,0 +1,5 @@
+Evan Thomas Weiss wrote and recorded a song a week for an entire year. The anthology known as “52 Weeks” was an opening salvo for a career that (so far) has proven to be incredibly prolific, spanning multiple bands, labels, collaborators, while maintaining a sound a feel that feels native to it’s creator.
+
+Weiss has said in so many words and in as many interviews “If you want to get good at music, you just have to write music.” It’s tempting to want to heed Weiss’ advice, but is the path to notoriety, re tweets, mentions (or whichever trappings of success one acknowledges) found simply through proliferation, or are the geniuses of music and the unicorns of business guilty of being romanticized by the same survivorship bias? 
+
+In world that increasingly asks for our attention, is propagating the idea that effort expended always corresponds neatly and consistently the measurable progress seems unfordable. As we continue to luxuriously drown in new content that spans all mediums, does the content that we create to better our craft become a detriment to others? 
