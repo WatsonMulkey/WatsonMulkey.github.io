@@ -1,11 +1,11 @@
 # ----------- CONFIGURABLE START -----------
 title:            "M. Watson Mulkey"
-description:      "Such theme, very cool."
+description:      "Welcome!"
 url:              https://watsonmulkey.github.io # Site url, without a slash at the end.
 signoff:          "Watson" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
-share:            false # Turn on twitter and facebook share buttons
+share:            # Turn on twitter and facebook share buttons
 
 links:
   - name:         Posts
