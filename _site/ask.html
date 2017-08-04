@@ -2,9 +2,9 @@
 <!doctype>
 <html lang="en">
   <head>
-    <meta content='Glad Youre Here - M. Watson Mulkey' name='title' />
-    <meta content='Glad Youre Here - M. Watson Mulkey' name='og:title' />
-    <title>Glad Youre Here - M. Watson Mulkey</title>
+    <meta content='👋 - M. Watson Mulkey' name='title' />
+    <meta content='👋 - M. Watson Mulkey' name='og:title' />
+    <title>👋 - M. Watson Mulkey</title>
     <link href='http://localhost:4000/images/Favicon2.png' rel='shortcut icon'/>
 <link href='http://localhost:4000/stylesheets/style.css' rel='stylesheet' type='text/css' />
 <link href='http://localhost:4000/stylesheets/syntax.css' rel='stylesheet' type='text/css' />
@@ -13,8 +13,8 @@
 <meta content='text/html; charset=utf-8' http-equiv='content-type' />
 
   <meta content='http://localhost:4000' property='og:url' />
-  <meta content="If you manage to find your way here while this post is still up, you're either a friend, curious, bored, or (dependin..." property='og:description' />
-  <meta content="article" property="og:type" />
+  <meta content="http://localhost:4000" property='og:description' />
+  <meta content="blog" property="og:type" />
 
 <!-- - -->
 
@@ -44,8 +44,8 @@
            </a>
         
           <a class="link blue hover-mid-gray mh2 pv1"
-             href="http://localhost:4000/ask">
-             Ask A question
+             href="http://localhost:4000/resume">
+             Resumé
            </a>
         
           <a class="link blue hover-mid-gray mh2 pv1"
@@ -58,37 +58,44 @@
       <main class="tl f6 relative pa4 pa5-ns overflow-hidden">
         
           <div class="mb4">
-            <div class="fw600 light-silver mt1">29 Jul 2017</div>
+            
             <h1 class="ttu f3 mt0 lh-title cb mb2">
               
-              Glad Youre Here
+              👋
             </h1>
             
           </div>
         
         <div class="markdown-body">
-          If you manage to find your way here while this post is still up, you're either a friend, curious, bored, or (depending on your outlook on life) lucky. 
+          <p>Articles
+  &lt;%= form_for :article, url: articles_path do |f| %&gt;
+    &lt;p&gt;
+      &lt;%= f.label :title %&gt;<br />
+      &lt;%= f.text_field :title %&gt;
+    &lt;/p&gt;</p>
 
-I'm planning on making this a space where I get by with myself, and with a little help with my friends. 
+<div class="highlighter-rouge"><pre class="highlight"><code>&lt;p&gt;
+  &lt;%= f.label :text %&gt;&lt;br&gt;
+  &lt;%= f.text_area :text %&gt;
+&lt;/p&gt;
 
--Watson
+&lt;p&gt;
+  &lt;%= f.submit %&gt;
+&lt;/p&gt;    &lt;% end -%&gt;
+</code></pre>
+</div>
+
+<p>hey hey hey Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
         </div>
-        <p class="mt4">
-  Best,<br>
-  Watson
-  <span class="silver">at 00:00</span>
-</p>
-<img src="http://localhost:4000/images/Favicon2.png" alt="scribble" width="57" height="57" />
-
+        
       </main>
-      <section class="fixed-l mw7 center w-100 top-50 tc pb4 nt4">
-  
-  
-    <a href="http://localhost:4000/posts/Into-It-Over-It-and-Whether-Propogation-Always-Equals-Success" class="no-underline f1 light-blue hover-silver nr5 fr-l ph3">›</a>
-  
-</section>
-
+      
     </div>
     <footer class="mw7 center tc pt3 pb4 silver">
       <img src="http://localhost:4000/images/scribble.png" alt="scribble" class="mt4 db center" height="120" width="120" />

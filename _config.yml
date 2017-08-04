@@ -14,8 +14,8 @@ links:
   - name:         About me
     url:          /about
     external:     false
-  - name:         Ask A question
-    url:          /ask
+  - name:         Resumé
+    url:          /resume
     external:     false
   - name:         Give A  question
     url:          /give
