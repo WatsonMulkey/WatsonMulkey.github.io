@@ -16,7 +16,7 @@ links:
     external:     false
   - name:         Resumé
     url:          /resume
-    external:     false
+    external:     true
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
