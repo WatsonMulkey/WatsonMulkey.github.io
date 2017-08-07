@@ -17,9 +17,6 @@ links:
   - name:         Resumé
     url:          /resume
     external:     false
-  - name:         Give A  question
-    url:          /give
-    external:     false
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
