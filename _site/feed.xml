@@ -7,6 +7,21 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>A Constant State Of Wip</title>
+        <description>&lt;h5 id=&quot;ive-tried-to-be-very-away-about-developing-back-programming-habits&quot;&gt;I’ve tried to be very away about developing back programming habits.&lt;/h5&gt;
+
+&lt;p&gt;While it seems like many arguments and disagreements about what constitutes “bad” habits are more pedantic than practical, successful coding and development hinge on detail and planning.&lt;/p&gt;
+
+&lt;p&gt;That said, I’m a big fan of getting my hands dirty. In the low-stakes game of a personal Jekyll blog, I enjoy the constant git pushing and the changes. Messing up, figuring out why something is broken, and then going in and trying to fix it is part of the thrill of coding.&lt;/p&gt;
+
+&lt;p&gt;There’s a time for proper prior planning, and there’s a time for playing in the dirt. Therefore, forgive me these my many iterations––I promise they’re not a thinly veiled attempt at padding my commit history.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Aug 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/A-Constant-State-of-WIP</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/A-Constant-State-of-WIP</guid>
+      </item>
+    
+      <item>
         <title>Into It Over It And Whether Propogation Always Equals Success</title>
         <description>&lt;p&gt;Evan Thomas Weiss wrote and recorded a song a week for an entire year. The anthology known as “52 Weeks” was an opening salvo for a career that (so far) has proven to be incredibly prolific, spanning multiple bands, labels, collaborators, while maintaining a sound a feel that feels native to it’s creator.&lt;/p&gt;
 
