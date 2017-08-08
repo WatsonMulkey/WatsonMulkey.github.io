@@ -28,12 +28,12 @@ title: A Condensed Snapshot of my Adventures in Professionalism
 #### Assistant Dean of Students / Director of Social Media                     6/2010 - 6/2015
 
 <ul>
-<li>Develop and implement social media strategy for the Admissions Office of the college</li>
-<li>Respond to and engage in the event of contentious campus events as a part of the Social Media Emergency Response Team</li>
-<li>Created and manager of the Freshman Social Media Committee, an advisory, feedback oriented student think tank for admissions social media and recruiting policy</li>
-<li>Oversaw a 91% increase in applications to my territory</li> 
-<li>In charge of all applications from the largest of 5 recruiting territories; with responsibilities including, application reading, evaluating candidate strength, and making initial determinations on acceptance and scholarship</li>
+<li>Develop and implement social media strategy for the Admissions Office of the college.</li>
+<li>Respond to and engage in the event of contentious campus events as a part of the Social Media Emergency Response Team.</li>
+<li>Created and manager of the Freshman Social Media Committee, an advisory, feedback oriented student think tank for admissions social media and recruiting policy.</li>
+<li>Oversaw a 91% increase in applications to my territory.</li> 
+<li>In charge of all applications from the largest of 5 recruiting territories; with responsibilities including, application reading, evaluating candidate strength, and making initial determinations on acceptance and scholarship.</li>
 <li>Constant maintenance of applications including all necessary follow up with applicants, schools and parents; including application completion efforts and gauging overall interest.</li>
-<li>Travel across territory speaking at various high schools and college fairs to generate interest, as well as hosting and attending events throughout the year to maximize yield</li>
-<li>Consistent and personal interaction with applicants across a variety of formats; including mobile (text and voice), e-mail and social media</li>
+<li>Travel across territory speaking at various high schools and college fairs to generate interest, as well as hosting and attending events throughout the year to maximize yield.</li>
+<li>Consistent and personal interaction with applicants across a variety of formats; including mobile (text and voice), e-mail and social media.</li>
 
