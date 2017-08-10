@@ -31,4 +31,9 @@
   border-left: .2rem solid #ccc;
   padding-left: 3.8rem;
 }
+
+.about-me-image {
+  position: center
+  position: absolute;
+}
 /* end Markdown styles */
