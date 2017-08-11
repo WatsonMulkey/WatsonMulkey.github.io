@@ -1,4 +1,4 @@
-###Marble / Sculptor 
+### Marble / Sculptor 
 
 For most of my life I’ve been fairly unhealthy. The desire to get my health sorted out came about when I got to a point in my life where I wasn’t happy with my circumstances and decided to do something about it. I’ve found that pinterest styled quotes about adversity creating opportunities for growth always have a way of feeling trite and unwanted.
 
