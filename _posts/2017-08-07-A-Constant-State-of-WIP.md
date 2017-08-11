@@ -1,4 +1,4 @@
-##### I've tried to be very aware about developing back programming habits. 
+##### I've tried to be very aware about developing bad programming habits. 
 
 While it seems like many arguments and disagreements about what constitutes "bad" habits are more pedantic than practical, successful coding and development hinge on detail and planning. 
 
