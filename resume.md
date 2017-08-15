@@ -15,7 +15,7 @@ title: A Condensed Snapshot of my Adventures in Professionalism
 #### Admissions Specialist / Student Success Lead at The Iron Yard             6/2015 - 4/2017
 
 <ul>
-<li>Processing all student applications and RFI's and maintaining them them across multiple CRMs (Nutshell, Intercom and Salesforce).</li> 
+<li>Processing all student applications and RFI's and maintaining them across multiple CRMs (Nutshell, Intercom and Salesforce).</li> 
 <li>Responding to hundreds of incoming general admissions and corporate phone calls.</li> 
 <li>Reported on trends and insights to the marketing team and helped develop communication strategy around those insights.</li> 
 <li>Lead a team responsible for reducing response time for leads, applications and RFIs in coordination with marketing efforts to increase lead volume.</li>
