@@ -1,0 +1,10 @@
+### I'm trying to pair down a bit
+
+This most recent iteration of my apartment has a bit more square footage than I wanted and than I'm used to. My fear is that increased square footage means a heightened propensity to horde and collect. That's an instinct that I'm genetically predisposed to, so the game is always trying to not add to the compulsion. 
+
+Since it's increasingly looking like I'll be moving apartments, even if I stay in Greenville, I can't help but cast a discerning eye over all the things that made the journey with me to this apartment in April. I like having books, but how many of them do I even lend out, let alone read. I like the framed pictures on mantle, but how would I present and keep them as memories as opposed to decoration? What would a small album that sat on a single table do for my appreciation for those photos. 
+
+Earlier this year, I got rid of some clothes that I'd carried with me for the better part of a decade but had hardly ever worn. I listened to a [Tim Ferriss podcast that featured featured Marie Kondo](https://tim.blog/2017/04/16/marie-kondo/) that completely changed my thinking about holding on to sentimental items that have burdensome. The first was the idea that when things that were given to bring joy (for whatever reason) become a burden, then you're not honoring the gift or the emotion that created it's giving by holding on to it. The second was the idea of "thanking" items before you get rid of them. Taking time to appreciate the items for what they did for you, helped me let go of them in a way that didn't feel like I was throwing something away. I donated two giant bags full of clothes to goodwill, and I haven't missed any of those things since. 
+
+I'm closing in on two weeks of work left, and it's clear that life is about to shift for me. Now seems as good a time as any to re-evaluate my relationship with the things in my life, and make sure that I'm giving space, time and attention to the items that really matter. My hope is that my removing the clutter I can magnify the impact of the things that are truly special and worth holding on to. 
+
