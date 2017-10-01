@@ -1,7 +1,0 @@
-### Gaining Momentum
-
-I remember chatting with a friend of mine one time about how it always seemed to be easier for me to save money when I had money. No one could ever accuse me of being a miser, but I find that playing the game of "How much can I keep", is far more compelling when I seem to be doing well financially. 
-
-This always seemed counter intuitive to me, and my friend agreed. In the last post I talked about needing to double-down on good habits during times of discord, and I'm happy to report that what's true of my spending/saving habits seems to carry over into other things. 
-
-Though there's been no real slowdown in the numebr 
