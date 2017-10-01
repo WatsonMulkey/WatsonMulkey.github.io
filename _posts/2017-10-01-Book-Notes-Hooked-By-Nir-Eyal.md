@@ -60,6 +60,6 @@ I first heard the idea from Tim Ferriss, but [here's a video talking about how t
 
 This also ties into the idea of moral licensing [(here's Gladwell giving a topical example)](https://www.youtube.com/watch?v=rjf8b_LLZ6g) and the idea that we justify bad behavior based on past good behavior. The idea being that a fitness band/tracker gives you lots of emotional triggers, AND helps you do the things you want to do (break a diet), while still providing you the comfort of licensing away bad behavior. Pretty compelling. 
 
-• Just got an alert from the Hearthstone app on my phone: "A new ranked play season has begun! See how far you can climb this month!" #timely
+• Just got an alert from the Hearthstone app on my phone: "A new ranked play season has begun! See how far you can climb this month!" Quite timely.
 
 Reading in Progress....
