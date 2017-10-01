@@ -1,6 +1,6 @@
-### Book Notes: ![Hooked: How to Build Habit-Forming Products by Nir Eyal](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/ref=sr_1_1?s=books&ie=UTF8&qid=1506724423&sr=1-1&keywords=hooked)
+### Book Notes: [Hooked: How to Build Habit-Forming Products by Nir Eyal](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/ref=sr_1_1?s=books&ie=UTF8&qid=1506724423&sr=1-1&keywords=hooked)
 
-#### I was recently given a task to power through some books. For both personal retention and public good, I thought I'd borrow a dance move from ![Derek Sivers](https://sivers.org/book) and keep public notes on them. These notes will be updated when I push to the blog and will follow along with me in the book. When I finish a book, I'll try and do some big takeaways. 
+#### I was recently given a task to power through some books. For both personal retention and public good, I thought I'd borrow a dance move from [Derek Sivers](https://sivers.org/book) and keep public notes on them. These notes will be updated when I push to the blog and will follow along with me in the book. When I finish a book, I'll try and do some big takeaways. 
 
 </>
 
@@ -8,7 +8,7 @@
 
 This caught my eye, but I'm up in the air about the universality of it at this point. This might be more true for companies that take percentages (ride sharing, transactions) than companies who survive on ad revenue (Facebook, Twitter). Google seems to the be an exception. Happy to be prove wrong about that (which, presumably is what this book will do.) </>
 
-• ![nirandfar.com](nirandfar.com) 
+• [nirandfar.com](nirandfar.com) 
 
 ##### The Hook Model
 
@@ -36,8 +36,8 @@ A succinct summary </>
 
 • Fostering habits creates a higher Customer Lifetime Value. pg. 19
 
-• ![The Evernote Smile Graph](https://techcrunch.com/2012/11/04/should-your-startup-go-freemium/evernote-smile-graph/)
+• [The Evernote Smile Graph](https://techcrunch.com/2012/11/04/should-your-startup-go-freemium/evernote-smile-graph/)
 
 ##### "Users who continuously find value in a product are more likely to tell their friends about it. pg. 21 "
 
-For books about WOMM, I'd recommend ![Fizz by Ted Wright](https://www.amazon.com/Fizz-Harness-Power-Marketing-Growth/dp/0071835741/ref=sr_1_1?ie=UTF8&qid=1506872326&sr=8-1&keywords=fizz+book) and checking out Ted on ![Twitter](https://twitter.com/TedWrightMedia). </>
+For books about WOMM, I'd recommend [Fizz by Ted Wright](https://www.amazon.com/Fizz-Harness-Power-Marketing-Growth/dp/0071835741/ref=sr_1_1?ie=UTF8&qid=1506872326&sr=8-1&keywords=fizz+book) and checking out Ted on [Twitter](https://twitter.com/TedWrightMedia). </>
