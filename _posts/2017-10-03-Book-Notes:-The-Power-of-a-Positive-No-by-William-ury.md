@@ -20,3 +20,5 @@ Their lack of fear and concern about asking questions gives greater credence to 
 
 I'm already thinking about "No's" in the same terms. If you say no when you can't or don't want to, it gives greater value to the times you say "yes". 
 
+
+Reading in progress...
