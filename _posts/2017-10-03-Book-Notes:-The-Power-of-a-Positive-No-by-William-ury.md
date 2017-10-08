@@ -20,5 +20,46 @@ Their lack of fear and concern about asking questions gives greater credence to 
 
 I'm already thinking about "No's" in the same terms. If you say no when you can't or don't want to, it gives greater value to the times you say "yes". 
 
+##### "At the heard of the difficulty in saying No is the tension between exercising your power and tending to your relationship." pg. 10
+
+##### "Everyone important yes requires a thousand No's" Pg .19 
+
+##### "...every creative yes begins with an internal No to the status quo." pg. 20
+
+##### "We derive our no from what we are against--the others demand or behavior. A positive no calls for us to do the exact opposite and base our no in what we are for...Root your No in a deeper Yes--a Yes to your core interests and what truly matters." pg. 27
+
+• In this section of the book, Ury is talking a lot about taking time out to dig into our reactions to things that immediately emotionally illicit a "No" reaction, including tactics that can be employed to remove yourself from the situation. Taking a time out to make sure that you're seeing the difference between positions and interests. 
+
+##### "Your intention is not something you you invent, but rather something you crystalize from you interests, needs, and values." pg. 43
+
+##### "To be prepared is half the victory - Miguel de Cervantes Saavedra" pg. 53
+
+That reminds me of another favorite expression: 'Those who sweat most during times of peace bleed least during times of war.'</>
+
+##### "The great irony is that the more you need the other to do what you want, the more power you give them over you and the less power you have to influence the situation." pg. 56
+
+##### "The challenge then in saying No is to express the "need"––the interest, desire, or concern––without the neediness" pg. 57
+
+### B.A.T.N.A (Best Alternative to a Negotiated Agreement)
+
+•This section of the book is focusing heavily on having a "Plan B". However, there are lots of clarifying points about what constitutes a good Plan B. He makes the point that "Plan B is sometimes confused with a fallback option", but also points out that...
+
+##### "Plan B is not an option for agreement at all but rather an alternative to agreement, a course of action you could pursue independent of the other's agreement."
+
+The benefits of a Plan B are to make sure that you've fully explored the issue you're trying to resolve, and to give yourself the knowledge and confidence that you've explored the possible options before presenting a no. Additionally, the confidence of being able to approach a dilemma knowing what you will do should you not be able to reach agreeable terms. He continues... 
+
+##### "Plan B is not so much power over the other as it is power to meet your own interests. That is what makes it positive power."
+
+
+
+
+
+
+
+
+
+
+
+
 
 Reading in progress...
