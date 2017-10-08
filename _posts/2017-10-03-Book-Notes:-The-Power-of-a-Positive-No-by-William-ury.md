@@ -50,6 +50,17 @@ The benefits of a Plan B are to make sure that you've fully explored the issue y
 
 ##### "Plan B is not so much power over the other as it is power to meet your own interests. That is what makes it positive power."
 
+I've heard from folks that the trick to successfully navigating a deal (the specific context was in regard to buying a car) is being willing to walk away. </>
+
+• Around page 98 he talks about taking away the other parties stick, should they present a stick (metaphorically) as a part of their attempt to be negotiated with. If you can anticipate and remove or nullify their stick, you remove their ability to use it as leverage over you. 
+
+##### "Never take a person's dignity: it is worth everything to them, and nothing to you." - Frank Barron pg. 75
+
+##### "Respect for the other flows directly from respect for self. You give respect to the other not so much because of who they are but because of who you are. Respect is an expression of yourself and your values." pg. 81
+
+Well damn. </>
+
+
 
 
 
