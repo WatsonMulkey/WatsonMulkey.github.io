@@ -58,20 +58,9 @@ I've heard from folks that the trick to successfully navigating a deal (the spec
 
 ##### "Respect for the other flows directly from respect for self. You give respect to the other not so much because of who they are but because of who you are. Respect is an expression of yourself and your values." pg. 81
 
-• Ury also talks about listening to understand, which is a concept that I've heard and learned about from a seminar and training that I went to. 
-
 Well damn. </>
 
-
-
-
-
-
-
-
-
-
-
+• Ury also talks about listening to understand, which is a concept that I've heard and learned about from a seminar and training that I went to.
 
 
 
